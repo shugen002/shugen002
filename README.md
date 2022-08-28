@@ -4,6 +4,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=shugen002&show_icons=true&&theme=tokyonight" />
 </p>
 
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr233&theme=vue-dark&layout=compact&hide=css,html">
+</a>
+
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shugen002/&title=Profile%20Views)
 
 <!--
