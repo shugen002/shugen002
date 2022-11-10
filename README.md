@@ -1,15 +1,21 @@
 ### Hi there 👋
 
-I'm currently no work and if you have any jobs for me, You can 
+What I Played:        Docker, Javascript, Nodejs, Vue, React
 
+What I am learning:   Golang
 
+What I touched:       k8s, C#, Python
+
+What I Hate:          PHP, C/C++, Sql
+
+I'm currently zero income and if you have any jobs for me, you can contact me by ihaveajobfor(At)shugen.space
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shugen002&show_icons=true&&theme=tokyonight" />
 </p>
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shugen002&theme=vue-dark&layout=compact&hide=css,html">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shugen002&theme=vue-dark&layout=compact&hide=css,html">
 </a>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shugen002/&title=Profile%20Views)
