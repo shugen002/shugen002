@@ -12,13 +12,7 @@ What I Hate:          PHP, C/C++, Sql
 
 I'm currently zero income and if you have any jobs for me, you can contact me by ihaveajobfor(At)shugen.space
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shugen002&show_icons=true&&theme=tokyonight" />
-</p>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shugen002&theme=vue-dark&layout=compact&hide=css,html">
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shugen002)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shugen002/&title=Profile%20Views)
 
